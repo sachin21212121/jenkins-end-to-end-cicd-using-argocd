@@ -1,4 +1,6 @@
 # Spring Boot CICD with Jenkins, ArgoCD, Docker, and SonarQube
+![image](https://github.com/user-attachments/assets/3f0c58c1-d60d-497a-b74e-ee8891d7e0ef)
+
 
 This project demonstrates a complete CI/CD pipeline using **Jenkins, ArgoCD, Docker, and SonarQube** to automate the deployment of a Spring Boot application.
 
